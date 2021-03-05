@@ -1,5 +1,7 @@
 # Matrix Multiplication
 
+Distributed Parallel Computing Overview (Not due yet)
+
 ## Research -- SIMD vs OpenMP vs MPI
 
  - SIMD:
